@@ -6,7 +6,7 @@ A personal website showcasing my projects, resume, and more.
 
 - [Website URL](#website-url)
 - [About](#about)
-- [Technologies Used](#technologies-used)
+- [Technologies](#technologies)
 - [Features](#features)
 - [License](#license)
 - [Contact](#contact)
@@ -19,7 +19,7 @@ Visit the website here: [https://hmantovani.github.io](https://hmantovani.github
 
 I'm Henrique Mantovani, and this website serves as my personal portfolio. It showcases my projects, provides access to my resume, and will eventually share my thoughts on various topics related to data analysis.
 
-## Technologies Used
+## Technologies
 
 - HTML
 - CSS
